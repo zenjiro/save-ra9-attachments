@@ -1,6 +1,6 @@
-# ra9 添付ファイル保存ツール
+# ra9+ 添付ファイル保存ツール
 
-これは、[らくらく連絡網](https://ra9.jp/) と [ra9+](https://ra9plus.jp/) から添付ファイルを自動でダウンロードするためのツールです。
+これは、[らくらく連絡網+](https://ra9plus.jp/) から添付ファイルを自動でダウンロードするためのツールです。
 
 ## 機能
 
@@ -18,10 +18,7 @@
     SELENIUM_PROFILE_DIRECTORY="/path/to/your/selenium/profile/directory"
     ORGANIZATION_ID="your_organization_id"
     ```
-2.  `main.py` または `ra9plus.py` を実行します。
-    ```bash
-    python main.py
-    ```
+2.  `ra9plus.py` を実行します。
     ```bash
     python ra9plus.py
     ```
