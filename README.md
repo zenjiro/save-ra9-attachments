@@ -17,7 +17,8 @@
     ```
 2.  `ra9plus.py` を実行します。
     ```bash
-    python ra9plus.py
+    uv sync
+    uv run ra9plus.py
     ```
 
 ## 依存関係
